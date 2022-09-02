@@ -1,0 +1,659 @@
+*{
+    margin: 0;
+padding: 0;
+}
+body{
+width: 100%;
+}
+
+/* start div */
+.dddddddd{
+      background-image: url("EG-ar-20220627-popsignuptwoweeks-perspective_alpha_website_medium.jpg"); 
+ /* background: linear-gradient (0deg, rgba(0, 0, 0, 0.30), rgba(0, 0, 0, 0.30)), url("EG-ar-20220627-popsignuptwoweeks-perspective_alpha_website_medium.jpg"); */
+    background-repeat: no-repeat;
+background-color: black;
+background-position: center;
+background-size: cover;
+width: 100%;
+height: 100vh;
+
+}
+
+
+ .dddddddd h1{
+position: absolute;
+left: 26%; 
+top: 35%;
+color: white;
+font-size:50px ;
+width: 600px;
+direction: rtl;
+} 
+h2{
+    position: absolute;
+    left: 40%; 
+    top: 60%;
+    color: white;
+    font-size:27px ;
+width:500px;
+}
+p{
+    position: absolute;
+    left: 25%; 
+    top: 70%;
+    color: white;
+    font-size:27px ;
+width:900px;
+}
+.ppppp {
+    position: absolute;
+    left: 26%; 
+    bottom: 0%;
+height: 66px;
+    width: 120px;
+    background-color: red;
+   margin-left: 40px;
+
+
+}
+
+.uuuu{
+    fill: #e50914;
+    size: 10px;
+   
+}
+
+.ppppp:focus{
+    outline-color: aqua;
+}
+
+
+ input:focus{
+    outline-color: aqua;
+}
+.ppppp a{
+    text-decoration: none;
+     font-size: 30px;
+    color: white;
+    width: 100%;
+    height: 42px; 
+}
+.iiii{
+    position: absolute;
+    left: 37%; 
+    bottom: 0%;
+    width: 500px;
+    height: 61px;
+
+
+
+}
+
+.ooo{
+    position: absolute;
+    right: 85%;
+    top: 5%;
+height: 50px ;
+width:140px ;
+background-color: red;
+
+}
+.ooo button:focus{
+    outline: none;
+}
+
+
+.ooo a{
+text-decoration: none;
+height:20px ;
+width:100px ;
+color: white;
+ font-size: 20px; 
+
+
+
+}
+
+.qqqqqqqqqqq{
+    width: 180px;
+    position: absolute;
+    left: 80%;
+top: 4%;
+}
+
+ .logo{
+     color: geeen;
+ }
+ .Fill-14{
+    color: green;
+
+ }
+/* end div */
+
+
+/* start section 1 */
+.sec1{
+    background-color: black;
+width: 100%;
+height: 500px;
+position: relative;
+
+}
+
+
+select{
+    background-color: rgba(0, 0, 0, 0.258)(0, 0, 0, 0.908);
+    width: 100px;
+    height: 50px;
+    position: absolute;
+left: 15%;
+top: 5%;
+z-index: 1.3;
+outline: green;
+}
+option{
+    color: white;
+    background-color:aqua;
+}
+
+i{
+    position: absolute;
+left: 19.5%;
+top: 8%;
+color:blue;
+
+
+
+}
+
+.sec1{
+    position: relative;
+display: flex;
+
+}
+
+.zzzzzzz{
+    position: absolute;
+    left:30px;
+    z-index: 1;
+}
+
+.aaaaaaaaaaaaaaa h1{
+    display: block;
+    direction: rtl;
+color:white;
+position: absolute;
+left: 50%;
+top: 60px;
+font-size: 60px;
+width: 500px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+ .aaaaaaaaaaaaaaa h3{
+    display: block;
+    direction: rtl;
+color:white;
+position: absolute;
+left: 50%;
+top: 210px;
+font-size: 30px;
+width: 500px;
+}
+
+video{
+    width: 363px;
+    height: 300px;
+    position: absolute;
+    right: 70px;
+    top: 30px;
+    z-index: -1;
+}
+/* end sec 1 */
+
+/* start sec 2 */
+.sec2{
+    margin-top: 3px;
+    background-color: black;
+width: 100%;
+height: 500px;
+position: relative;
+
+}
+
+.sec2{
+    position: absolute;
+  
+}
+.zzzzzzzzzzzz1 {
+    width: 505px;
+    height: 379px;
+    position: absolute;
+    left: 60%;
+    top:20%;
+    bottom: 0%;
+}
+
+
+.sssssssss{
+    position: absolute;
+    top:80%;
+    left: 60%;
+     width:51px;
+     height:72px; 
+     bottom: 60%;
+
+}
+
+.aaaaaaaaa{
+    border: 2px solid rgba(128, 128, 128, 0.612);
+    border-radius: 10px;
+    z-index: 0.3; 
+    width: 350px; 
+    height: 100px; 
+    position: absolute;
+ left: 890px; 
+ top: 380px;  
+background-color: black;
+font-size: 20px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.kkkkkk{
+
+color: blue;
+font-size: 18px;
+position: absolute;
+left: 1070px;
+top: 440px;
+
+}
+
+.sssssssss{
+    position: absolute;
+left: 1180px;
+ z-index: 1; 
+
+
+}
+
+
+.bbbbbbbb h1{
+    width: 550px;
+    height: 300px;
+    position: absolute;
+left: 15%;
+top: 30%;
+color: white;
+font-size: 50px;
+direction: rtl;
+}
+
+.bbbbbbbb h3{
+
+
+    width: 500px;
+    height: 300px;
+    position: absolute;
+left: 19%;
+top: 65%;
+color: white;
+font-size: 30px;
+direction: rtl;
+
+
+
+
+}
+
+
+/* end se2 */
+
+
+/* start sec 3 */
+.sec3{
+background-color: black;
+position:relative;
+top: 506px;
+width: 100%;
+height: 500px;
+
+
+
+
+}
+
+.mnb {
+    position: absolute;    
+width: 480px;
+height: 350px;
+
+}
+.okmokm h1 {
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    color: rgb(255, 255, 255);
+    width: 505px;
+    font-size: 50px;
+    direction: rtl;
+}
+
+.okmokm h3{
+    position:absolute;
+    left: 50%;
+    top: 40%;
+    color: rgb(255, 255, 255);
+    width: 505px;
+    font-size: 25px;
+    direction: rtl;
+ 
+
+}
+
+/* end sec 3 */
+
+/* start sec 4 */
+.sec4{
+    position:relative;
+    top: 508px;
+
+    background-color: black;
+    width: 100%;
+    height: 500px;
+    
+
+}
+
+
+.imgvidwo video{
+    width: 300px;
+height: 300px;
+
+}
+
+
+.imgvidwo{
+    position: absolute;
+    top: 10%;
+    left:8%;
+}
+ .imgvidwo img{
+    position: absolute;
+    left: 650px;
+     z-index: 2; 
+top: 50px;
+width: 520px;
+height: 400px;
+
+} 
+.imgvidwo video{
+    position: absolute;
+    left: 743px;
+    width: 330px;
+height:300px;
+ z-index: 1; 
+
+}
+
+.zaqwsx h1{
+    position: absolute;
+    top:40%;
+    font-size: 50px;
+    left: 25%;
+direction: rtl;
+color: white;
+
+}
+
+.zaqwsx h3{
+    position: absolute;
+    top:55%;
+    font-size: 25px;
+    width: 500px;
+    left: 11%;
+direction: rtl;
+color: white;
+
+}
+
+/* end sec 4 */
+
+/* start sec 5 */
+.sec5{
+    position:relative;
+    top: 510px;
+
+    background-color: black;
+    width: 100%;
+    height: 1000px;
+    
+
+}
+.sec5 h1{
+    position: absolute;
+    top:10%;
+    color: white;
+width: 100%;
+text-align: center;
+justify-content: center;
+align-items: center;
+font-size:70px;
+
+
+}
+.bgtr{
+    position: absolute;
+    left: 16%;
+    top:20%;
+    direction: rtl;
+
+    height: 90px;
+    margin: 20px;
+    padding-left: 600px;
+    padding-right: 10px;
+    font-size: 50px;
+    background-color: rgba(128, 128, 128, 0.339);
+}
+button a{
+    text-decoration: none;
+    color: white;
+     font-size:30px; 
+     height: 70px;
+     width: 70px;
+}
+
+
+
+.aaaaaaaaaaasss{
+    position: absolute;
+    left: 16%;
+    top:30%;
+    direction: rtl;
+
+    height: 90px;
+    margin: 20px;
+    padding-left: 600px;
+    padding-right: 10px;
+    font-size: 50px;
+    background-color: rgba(128, 128, 128, 0.339);
+
+}
+
+.aaaaoii{
+    position: absolute;
+    left: 16%;
+    top:40%;
+    direction: rtl;
+
+    height: 95px;
+    margin: 20px;
+    padding-left: 620px;
+    padding-right: 8px;
+    /* font-size: 70px; */
+    background-color: rgba(128, 128, 128, 0.339);
+
+
+}
+
+.qqqqqqaz{
+
+position: absolute;
+left: 16%;
+top: 50%;
+direction: rtl;
+height: 90px;
+background-color: rgba(128, 128, 128, 0.339);
+margin: 20px;
+padding-left: 645px;
+padding-right: 11px;
+
+
+}
+
+
+
+.asdfg{
+    position: absolute;
+    left: 16%;
+    top: 60%;
+    direction: rtl;
+    height: 90px;
+    background-color: rgba(128, 128, 128, 0.339);
+    margin: 20px;
+    padding-left: 446px;
+    padding-right: 10px;
+     
+}
+
+.plkio{
+    position: absolute;
+    left: 16%;
+    top: 70%;
+    direction: rtl;
+    height: 90px;
+    background-color: rgba(128, 128, 128, 0.339);
+    margin: 20px;
+    padding-left: 543px;
+    padding-right: 10px;
+       
+}
+
+.bgtrfv{
+ color: white;
+ direction: rtl;
+ width: 60%;
+ position: absolute;
+left: 14%;
+top: 89%;
+font-size: 23px;
+
+
+}
+/*  end sec 5 */
+
+
+/* start footer */
+footer{
+    position:relative;
+    top: 513px;
+
+    background-color: black;
+    width: 100%;
+    height: 600px;
+    list-style-type: none;
+}
+
+.unorder{
+    position:absolute;
+color: rgba(255, 255, 255, 0.519);
+left: 80%;
+top: 20%;
+direction: rtl;
+
+}
+.unorder a{
+    text-decoration: none;
+    color: white;
+    color: rgba(255, 255, 255, 0.519);
+
+}
+footer li{
+list-style-type: none; 
+}
+
+.asdfghgfda{
+    position:absolute;
+    color: rgba(255, 255, 255, 0.519);
+    left: 65%;
+    top: 29%;
+    direction: rtl;
+
+}
+.asdfghgfda a{
+    text-decoration: none;
+    color: white;
+    color: rgba(255, 255, 255, 0.519);
+
+}
+
+.sadewq{
+    position:absolute;
+    color: rgba(255, 255, 255, 0.519);
+    left: 45%;
+    top: 29%;
+    direction: rtl;
+
+}
+.sadewq a{
+    text-decoration: none;
+    color: white;
+    color: rgba(255, 255, 255, 0.519);
+
+}
+
+.vcbgfg{
+
+    position:absolute;
+    color: rgba(255, 255, 255, 0.519);
+    left:25%;
+    top: 29%;
+    direction: rtl;
+
+
+
+
+}
+.vcbgfg a{
+    text-decoration: none;
+    color: white;
+    color: rgba(255, 255, 255, 0.519);
+
+}
+.plmko{
+  background-color: black;  
+  color: white;
+  width: 150px;
+height: 60px;
+position: absolute;
+top: 57%;
+left: 79%;
+
+}
+.plmko {
+    padding-left: 30px;
+    font-size: 20px;
+}
+.rfetd{
+color: white;
+color: rgba(255, 255, 255, 0.519);
+direction: rtl;
+font-size: 15px;
+position: absolute;
+left: 23%;
+top:73%;
+}
+
+/* end footer */
+
